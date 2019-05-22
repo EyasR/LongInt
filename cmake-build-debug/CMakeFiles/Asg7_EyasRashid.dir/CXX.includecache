@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/rashi/Desktop/UW - CSSE/CSS342/CS342Labs/Asg7_EyasRashid/deque.cpp.h
+
+C:/Users/rashi/Desktop/UW - CSSE/CSS342/CS342Labs/Asg7_EyasRashid/deque.h
+iostream
+-
+deque.cpp.h
+C:/Users/rashi/Desktop/UW - CSSE/CSS342/CS342Labs/Asg7_EyasRashid/deque.cpp.h
+
+C:/Users/rashi/Desktop/UW - CSSE/CSS342/CS342Labs/Asg7_EyasRashid/longint.cpp
+longint.h
+C:/Users/rashi/Desktop/UW - CSSE/CSS342/CS342Labs/Asg7_EyasRashid/longint.h
+
+C:/Users/rashi/Desktop/UW - CSSE/CSS342/CS342Labs/Asg7_EyasRashid/longint.h
+iostream
+-
+deque.h
+C:/Users/rashi/Desktop/UW - CSSE/CSS342/CS342Labs/Asg7_EyasRashid/deque.h
+
